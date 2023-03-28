@@ -1,0 +1,10 @@
+[2023-03-24 00:31:41] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-03-24 00:31:48] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-03-24 00:31:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2023-03-24 00:31:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2023-03-24 00:32:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2023-03-24 00:32:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2023-03-24 00:32:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2023-03-24 00:32:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2023-03-24 00:32:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2023-03-24 00:38:01] [WARNING]: Protocol -> device lock is disable. http api may fail. 
